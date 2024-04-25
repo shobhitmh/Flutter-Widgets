@@ -17,7 +17,7 @@ To use these widgets in your Flutter project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/flutter-widgets-collection.git
+git clone https://github.com/shobhitmh/Flutter-Widgets.git
 ```
 2. Open the project in Visual Studio Code or any other Flutter-compatible IDE.
 3. Explore the lib/widgets directory to find the widgets you want to use.
